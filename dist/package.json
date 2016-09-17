@@ -1,6 +1,6 @@
 {
   "name": "info-ps-panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Panel that can show information about features, platforms, etc.",
   "main": "info-panel.js",
   "scripts": {

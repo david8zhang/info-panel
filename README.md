@@ -15,6 +15,7 @@ Require it in your html
 ```
 
 # Usage
+```
 var features = [
 	{title: 'feature 1', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquid blanditiis commodi dolorem et ex exercitationem fuga hic id illo iste iusto labore nam nemo non, quae quam quibusdam reprehenderit.'},
 	{title: 'feature 2', description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquid blanditiis commodi dolorem et ex exercitationem fuga hic id illo iste iusto labore nam nemo non, quae quam quibusdam reprehenderit.'},
